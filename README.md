@@ -4,6 +4,10 @@ A Model Context Protocol (MCP) server that enables AI assistants to interact wit
 
 Built by the [Diversio](https://diversio.com) team for streamlined AI-powered task management.
 
+<a href="https://glama.ai/mcp/servers/@DiversioTeam/clickup-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@DiversioTeam/clickup-mcp/badge" alt="ClickUp Server MCP server" />
+</a>
+
 ## 🚀 What This Server Provides
 
 ### ✅ Core Task Management
